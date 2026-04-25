@@ -21,3 +21,4 @@ models/*.pkl
 # OS files
 .DS_Store
 Thumbs.db
+mlflow.db
